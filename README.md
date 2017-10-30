@@ -1,2 +1,2 @@
 # dojo-webteam-forum
-Forum for the Dojo Website Team
+Forum created by the Dojo Website Team
